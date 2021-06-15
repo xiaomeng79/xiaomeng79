@@ -1,14 +1,10 @@
 <h2 align="center">:ghost: Hello stranger，I'm meng :ghost:</h2>
 
-<p align="center">I'm not a programmer, I'm a problem solver. I love coding !</p>
-
 ```racket
 (define information
-  #hash([#:name . "meng"]
-        [#:email . "mengmeng79@yeah.net"]
+  #hash([#:email . "mengmeng79@yeah.net"]
         [#:note . "https://xiaomeng79.github.io/learning_notes/"]
-        [#:languages . '(Rust Golang Python)]
-        [#:learning . "Rust Language"]))
+        [#:languages . '(Golang Rust Python PHP)]
 ```
 
 <table>
